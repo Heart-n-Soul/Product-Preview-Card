@@ -90,4 +90,6 @@ button {
 }
 
 footer{
-  margin: auto;
+  text-align: center;
+  display: grid;
+  place-items: center;
